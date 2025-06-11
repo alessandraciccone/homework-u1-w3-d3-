@@ -1,0 +1,82 @@
+body{
+    text-align: center;
+width: 50%;
+    background: linear-gradient(#92c1ea, #63ccd8);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+h1{
+    color:rgb(11, 4, 32);
+font-size:4em;
+font-style: italic;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+
+ul{
+    text-decoration: none;
+    color:rgb(3, 17, 30)
+}
+
+label{
+  font-size:1.5em;
+  color:rgb(15, 36, 77);
+font-weight: bold;
+font-style: oblique;
+
+}
+
+input{
+border-radius: 2em;
+border-color:black;
+width:350px;
+background:linear-gradient(#f7efdb, #fffdf0e7);
+margin-top: 10em;
+
+}
+
+button{
+    border-radius: 3em;
+width :50px;
+margin-top:2em;
+margin-bottom:2em;
+background:linear-gradient(#ebffc5, #c5d115);
+
+
+}
+
+.button1{
+     width: 20px; 
+  height: 20px;
+  border-radius: 50%; 
+  border: none;
+background:linear-gradient(#609400, #c5d115);
+  font-size: 8px;
+  cursor: pointer;
+}
+
+.button2{
+
+  width: 20px; 
+  height: 20px;
+  border-radius: 50%; 
+  border:none;
+background:linear-gradient(#609400, #c5d115);
+  font-size: 8px;
+  cursor: pointer;
+
+}
+
+.myLi{
+    font-size: 1.5em;
+
+    color:rgb(0, 0, 0);
+
+}
+ul{
+    list-style-type: none;
+}
